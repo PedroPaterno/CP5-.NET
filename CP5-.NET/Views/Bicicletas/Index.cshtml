@@ -1,0 +1,54 @@
+﻿@model IEnumerable<CrudMongoDB.Models.Bicicleta>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="NovaBicicleta">Criar Nova</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.BicicletaId)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Fabricante)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Tipo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model) {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.BicicletaId)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Fabricante)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Nome)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Tipo)
+                </td>
+                <td>
+                    <a asp-action="AtualizarBicicleta" asp-route-bicicletaId="@item.BicicletaId">Atualizar</a>
+                    <form asp-action="ExcluirBicicleta" asp-route-bicicletaId="@item.BicicletaId">
+                        <button type="submit">Excluir</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

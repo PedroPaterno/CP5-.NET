@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\views\\bicicletas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\views\\bicicletas\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\views\\bicicletas\\novabicicleta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\views\\bicicletas\\novabicicleta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\views\\bicicletas\\atualizarbicicleta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\views\\bicicletas\\atualizarbicicleta.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\controllers\\bicicletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\controllers\\bicicletacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\models\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\models\\bicicleta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|c:\\users\\minec\\source\\repos\\cp5-.net\\cp5-.net\\config\\configdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B47DE0B9-2AFC-47D3-A378-119FEE0D1056}|CP5-.NET\\CP5-.NET.csproj|solutionrelative:cp5-.net\\config\\configdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "CP5-.NET\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "CP5-.NET\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T16:05:43.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtualizarBicicleta.cshtml",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\Bicicletas\\AtualizarBicicleta.cshtml",
+              "RelativeDocumentMoniker": "CP5-.NET\\Views\\Bicicletas\\AtualizarBicicleta.cshtml",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\Bicicletas\\AtualizarBicicleta.cshtml",
+              "RelativeToolTip": "CP5-.NET\\Views\\Bicicletas\\AtualizarBicicleta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T16:01:49.249Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NovaBicicleta.cshtml",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\Bicicletas\\NovaBicicleta.cshtml",
+              "RelativeDocumentMoniker": "CP5-.NET\\Views\\Bicicletas\\NovaBicicleta.cshtml",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\Bicicletas\\NovaBicicleta.cshtml",
+              "RelativeToolTip": "CP5-.NET\\Views\\Bicicletas\\NovaBicicleta.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T16:00:57.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\Bicicletas\\Index.cshtml",
+              "RelativeDocumentMoniker": "CP5-.NET\\Views\\Bicicletas\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\Bicicletas\\Index.cshtml",
+              "RelativeToolTip": "CP5-.NET\\Views\\Bicicletas\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwCoAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T15:58:16.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "CP5-.NET\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "CP5-.NET\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-06T15:57:36.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bicicleta.cs",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Models\\Bicicleta.cs",
+              "RelativeDocumentMoniker": "CP5-.NET\\Models\\Bicicleta.cs",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Models\\Bicicleta.cs",
+              "RelativeToolTip": "CP5-.NET\\Models\\Bicicleta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:51:38.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BicicletaController.cs",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Controllers\\BicicletaController.cs",
+              "RelativeDocumentMoniker": "CP5-.NET\\Controllers\\BicicletaController.cs",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Controllers\\BicicletaController.cs",
+              "RelativeToolTip": "CP5-.NET\\Controllers\\BicicletaController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowCUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:51:06.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConfigDB.cs",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Config\\ConfigDB.cs",
+              "RelativeDocumentMoniker": "CP5-.NET\\Config\\ConfigDB.cs",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Config\\ConfigDB.cs",
+              "RelativeToolTip": "CP5-.NET\\Config\\ConfigDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:50:34.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Program.cs",
+              "RelativeDocumentMoniker": "CP5-.NET\\Program.cs",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\Program.cs",
+              "RelativeToolTip": "CP5-.NET\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwCgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T15:48:39.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\appsettings.json",
+              "RelativeDocumentMoniker": "CP5-.NET\\appsettings.json",
+              "ToolTip": "C:\\Users\\minec\\source\\repos\\CP5-.NET\\CP5-.NET\\appsettings.json",
+              "RelativeToolTip": "CP5-.NET\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-06T15:48:14.891Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
